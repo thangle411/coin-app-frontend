@@ -1,0 +1,29 @@
+@import '../../utils/styles/theme';
+@import '../../utils/styles/colors';
+
+.input-box {
+  @include theme() {
+    color: theme-get('input-box-color');
+    border-color: theme-get('input-box-border');
+  }
+
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  padding: 6px;
+  background: transparent;
+
+  &:focus {
+    outline: none;
+
+    &::placeholder {
+      color: transparent;
+    }
+  }
+
+  @include theme() {
+    &::placeholder {
+      color: theme-get('input-box-placeholder-color');
+    }
+  }
+}

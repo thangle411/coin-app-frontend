@@ -1,0 +1,35 @@
+@import '../../utils/styles/theme';
+
+nav {
+  @include theme() {
+    color: theme-get('text-color');
+    background-color: theme-get('bg-color');
+  }
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 50px;
+  transition: background-color 0.2s ease;
+}
+
+.navigations {
+  list-style-type: none;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  @include theme() {
+    color: theme-get('text-color');
+  }
+}
