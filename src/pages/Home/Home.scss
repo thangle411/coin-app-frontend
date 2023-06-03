@@ -9,5 +9,21 @@
   flex: 1;
   display: flex;
   align-items: center;
+}
+
+.home-left-side {
+  flex: 1;
+  padding: 0 20px;
+  display: flex;
   justify-content: center;
+}
+
+.home-right-side {
+  height: 100%;
+  width: 200px;
+  padding: 0 20px;
+  border-left: 1px solid black;
+  @include theme() {
+    border-color: theme-get('border');
+  }
 }
