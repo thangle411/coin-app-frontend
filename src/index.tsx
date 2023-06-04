@@ -11,14 +11,23 @@ import { ServicesProvider } from './contexts/ServicesContext/ServicesContext';
 import { toast } from 'react-hot-toast';
 
 const queryClient = new QueryClient({
+  defaultOptions: {
+    queries: {
+      //globally default to 20 seconds
+      staleTime: 1000 * 20,
+    },
+  },
   queryCache: new QueryCache({
     onError: (error, query) => {
-      // 🎉 only show error toasts if we already have data in the cache
+      // only show error toasts if we already have data in the cache
       // which indicates a failed background update
-      toast.error(`Something went wrong: ${(error as any)?.message ?? 'no error message'}`);
+      if (query.state.data !== undefined) {
+        toast.error(`Something went wrong: ${(error as any)?.message ?? 'no error message'}`);
+      }
     },
   }),
 });
+queryClient.setQueryDefaults(['trendingCoins', 'gasPrices'], { staleTime: 60 * 1000 });
 const router = createBrowserRouter([
   {
     path: '/',

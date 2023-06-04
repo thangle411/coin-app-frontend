@@ -1,6 +1,7 @@
 import React from 'react';
-import { InputBox, TrendingCoins } from '../../components';
+import { InputBox } from '../../components';
 import './Home.scss';
+import { GasPrices, TrendingCoins } from '../../features';
 
 function Home() {
   return (
@@ -13,7 +14,15 @@ function Home() {
         />
       </div>
       <div className='home-right-side'>
-        <TrendingCoins />
+        <div className='home-gas-container'>
+          <div className='title'>Gas Tracker</div>
+          <GasPrices />
+        </div>
+        <div className='separator'></div>
+        <div className='home-trending-coins-container'>
+          <div className='title'>Trending coins</div>
+          <TrendingCoins />
+        </div>
       </div>
     </div>
   );

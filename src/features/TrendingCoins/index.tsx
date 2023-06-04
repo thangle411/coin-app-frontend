@@ -1,6 +1,6 @@
 import React from 'react';
 import { useTrendingCoinsQuery } from '../../api';
-import LoadingSpinner from '../LoadingSpinner';
+import LoadingSpinner from '../../components/LoadingSpinner';
 import './TrendingCoins.scss';
 
 export default function TrendingCoins() {
@@ -21,7 +21,6 @@ export default function TrendingCoins() {
 
   return (
     <div className='treding-coins-container'>
-      <div className='trending-coins-heading'>Trending Coins</div>
       <div className='trending-coins-rows-container'>
         {trendingCoins.data?.map(coin => (
           <a

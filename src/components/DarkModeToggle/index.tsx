@@ -1,9 +1,9 @@
 import React, { useContext } from 'react';
 import { ThemeContext } from '../../contexts/ThemeContext/ThemeContext';
+import './DarkModeToggle.scss';
 
 export default function DarkModeToggle() {
-  const { theme, toggleTheme } = useContext(ThemeContext);
+  const { toggleTheme } = useContext(ThemeContext);
 
-  //update to uae some real toggle
-  return <div onClick={toggleTheme}>{theme === 'darkTheme' ? 'light mode' : 'dark mode'}</div>;
+  return <input className='toggle' type='checkbox' onClick={toggleTheme} />;
 }
