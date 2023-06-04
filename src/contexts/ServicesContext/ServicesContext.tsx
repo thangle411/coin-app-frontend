@@ -1,5 +1,6 @@
 import { ReactNode, createContext } from 'react';
 import CoinGeckoAPI from '../../services/coingecko';
+import TweetsAPI from '../../services/tweets';
 
 interface Props {
   children: ReactNode;
@@ -7,6 +8,7 @@ interface Props {
 
 const services = {
   coingeckoService: new CoinGeckoAPI(),
+  tweetsService: new TweetsAPI(),
 };
 const ServicesContext = createContext({});
 const { Provider } = ServicesContext;

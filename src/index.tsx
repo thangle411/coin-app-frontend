@@ -27,7 +27,7 @@ const queryClient = new QueryClient({
     },
   }),
 });
-queryClient.setQueryDefaults(['trendingCoins', 'gasPrices'], { staleTime: 120 * 1000 });
+queryClient.setQueryDefaults(['trendingCoins', 'gasPrices', 'tweets'], { staleTime: 120 * 1000 });
 const router = createBrowserRouter([
   {
     path: '/',

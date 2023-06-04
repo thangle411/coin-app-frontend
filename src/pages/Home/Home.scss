@@ -20,6 +20,18 @@
   .new-search-text {
     font-size: 10px;
     color: $mustard;
+    margin-bottom: 10px;
+  }
+
+  .no-results-text {
+    font-size: 10px;
+    margin-bottom: 5px;
+  }
+
+  .loading-spinner {
+    position: absolute;
+    right: 0;
+    top: 5px;
   }
 
   .separator {

@@ -1,7 +1,7 @@
 import React from 'react';
-import { useGasPricesQuery } from '../../api/getGasPrices';
 import { LoadingSpinner } from '../../components';
 import './GasPrices.scss';
+import { useGasPricesQuery } from '../../api';
 
 export default function GasPrices() {
   const gasPrices = useGasPricesQuery();

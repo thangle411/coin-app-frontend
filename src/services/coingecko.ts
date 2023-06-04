@@ -16,6 +16,10 @@ class CoinGeckoAPI {
 
   static async searchForCoin(coin: string): Promise<CoinGeckoType.CoinsEntity[] | null> {
     try {
+      const isAlive = await CoinGeckoAPI.isServerAlive();
+
+      if (!isAlive) return null;
+
       const response = await fetch(`${process.env.REACT_APP_COINGECKO_API_URL}/search?query=${coin}`);
 
       if (!response.ok) return null;

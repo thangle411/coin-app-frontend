@@ -1,3 +1,5 @@
 import { useTrendingCoinsQuery } from './getTrendingCoins';
+import { useGasPricesQuery } from './getGasPrices';
+import { useTweetsQuery } from './getTweets';
 
-export { useTrendingCoinsQuery };
+export { useTrendingCoinsQuery, useGasPricesQuery, useTweetsQuery };

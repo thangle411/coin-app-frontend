@@ -10,8 +10,10 @@ function Home() {
   const [searchString, setSearchString] = useState('');
   const [searchResults, setSearchResults] = useState<CoinGeckoType.CoinsEntity[] | null>(null);
   const [selectedResult, setSelectedResult] = useState<CoinGeckoType.CoinsEntity | null>();
+  const [tryUsingContractAddress, setTryUsingContractAddress] = useState(false);
 
   useEffect(() => {
+    setTryUsingContractAddress(false);
     (async () => {
       try {
         if (!searchString) return;
@@ -19,6 +21,8 @@ function Home() {
         const response = await CoinGeckoAPI.searchForCoin(searchString);
 
         if (!response) {
+          setIsFetchingSearchResults(false);
+          setTryUsingContractAddress(true);
           return setSearchResults(null);
         }
 
@@ -31,8 +35,6 @@ function Home() {
     })();
   }, [searchString]);
 
-  useEffect(() => {}, [selectedResult?.name]);
-
   const resetStates = (): void => {
     setSearchResults(null);
     setSelectedResult(null);
@@ -43,13 +45,23 @@ function Home() {
     if (!selectedResult) {
       return (
         <div className='d-flex-col justify-content-center align-items-center h-100'>
-          <InputBox
-            placeholderText='Search for your coin'
-            typeoutEffect={true}
-            customeStyle={{ width: '50%', fontSize: '20px' }}
-            setSearchString={setSearchString}
-          />
-          {isFetchingSearchResults && <LoadingSpinner />}
+          <div className='position-relative w-50'>
+            {tryUsingContractAddress && (
+              <div className='no-results-text'>No results - try searching with smart contract address instead</div>
+            )}
+            <InputBox
+              placeholderText='Search for your coin'
+              typeoutEffect={true}
+              customeStyle={{ width: '100%', fontSize: '20px' }}
+              setSearchString={setSearchString}
+            />
+            {isFetchingSearchResults && (
+              <div className='loading-spinner'>
+                <LoadingSpinner />
+              </div>
+            )}
+          </div>
+
           {searchResults && (
             <InputFieldSearchResults style={{ width: '50%' }}>
               <div className='result-list-text'>Click a coin below to choose</div>
@@ -79,7 +91,7 @@ function Home() {
       <div className='home-right-side'>
         <div className='home-gas-container'>
           <div className='title'>Gas Tracker</div>
-          <GasPrices />
+          {/* <GasPrices /> */}
         </div>
         <div className='separator'></div>
         <div className='home-trending-coins-container'>

@@ -1,5 +1,6 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { ChangeEvent, useEffect, useRef, useState } from 'react';
 import './InputBox.scss';
+import { useDebounce } from '../../hooks';
 
 interface InputBoxProps {
   placeholderText: string;
@@ -34,12 +35,16 @@ const InputBox: React.FC<InputBoxProps> = ({
     typeOutPlaceholder();
   }, [blurred]);
 
+  const debounce = useDebounce(() => {
+    setSearchString(inputValue);
+  }, 500);
+
   const onFocus = () => {
     setPlaceholder('');
     setBlurred(false);
   };
 
-  const onBlur = (e: React.FocusEvent) => {
+  const onBlur = () => {
     currentIndexRef.current = 0;
     setBlurred(true);
   };
@@ -50,17 +55,20 @@ const InputBox: React.FC<InputBoxProps> = ({
     }
   };
 
+  const onChange = (e: ChangeEvent<HTMLInputElement>) => {
+    setInputValue(e.target.value);
+    debounce();
+  };
+
   return (
     <input
       className='input-box'
       placeholder={placeholder}
       style={customeStyle}
-      onBlur={e => {
-        onBlur(e);
-      }}
+      onBlur={onBlur}
       onFocus={onFocus}
-      onKeyDown={e => onKeyDown(e)}
-      onChange={e => setInputValue(e.target.value)}
+      onKeyDown={onKeyDown}
+      onChange={onChange}
     />
   );
 };
