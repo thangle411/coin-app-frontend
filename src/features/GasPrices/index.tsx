@@ -18,8 +18,6 @@ export default function GasPrices() {
     return <div>Can't get gas prices</div>;
   }
 
-  console.log(gasPrices);
-
   return (
     <ul className='gas-prices-container'>
       <li>{gasPrices.data?.SafeGasPrice}</li>

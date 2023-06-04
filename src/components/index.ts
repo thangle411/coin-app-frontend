@@ -1,7 +1,7 @@
 import Navbar from './Navbar';
 import InputBox from './InputBox';
 import DarkModeToggle from './DarkModeToggle';
-import PieChart from './PieChart';
 import LoadingSpinner from './LoadingSpinner';
+import InputFieldSearchResults from './InputFieldSearchResults';
 
-export { Navbar, InputBox, DarkModeToggle, PieChart, LoadingSpinner };
+export { Navbar, InputBox, InputFieldSearchResults, DarkModeToggle, LoadingSpinner };

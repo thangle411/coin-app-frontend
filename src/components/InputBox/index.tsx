@@ -1,18 +1,25 @@
-import React from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import './InputBox.scss';
 
 interface InputBoxProps {
   placeholderText: string;
+  setSearchString: React.Dispatch<string>;
   typeoutEffect?: boolean;
   customeStyle?: React.CSSProperties;
 }
 
-const InputBox: React.FC<InputBoxProps> = ({ placeholderText, typeoutEffect = false, customeStyle }) => {
-  const [placeholder, setPlaceholder] = React.useState('');
-  const currentIndexRef = React.useRef(0);
-  const [blurred, setBlurred] = React.useState(false);
+const InputBox: React.FC<InputBoxProps> = ({
+  placeholderText,
+  setSearchString,
+  typeoutEffect = false,
+  customeStyle,
+}) => {
+  const [inputValue, setInputValue] = useState('');
+  const [placeholder, setPlaceholder] = useState('');
+  const currentIndexRef = useRef(0);
+  const [blurred, setBlurred] = useState(false);
 
-  React.useEffect(() => {
+  useEffect(() => {
     if (!typeoutEffect) setPlaceholder(placeholderText);
 
     const typeOutPlaceholder = () => {
@@ -32,13 +39,29 @@ const InputBox: React.FC<InputBoxProps> = ({ placeholderText, typeoutEffect = fa
     setBlurred(false);
   };
 
-  const onBlur = () => {
+  const onBlur = (e: React.FocusEvent) => {
     currentIndexRef.current = 0;
     setBlurred(true);
   };
 
+  const onKeyDown = (e: React.KeyboardEvent) => {
+    if (e.code === 'Enter') {
+      setSearchString(inputValue);
+    }
+  };
+
   return (
-    <input className='input-box' placeholder={placeholder} style={customeStyle} onBlur={onBlur} onFocus={onFocus} />
+    <input
+      className='input-box'
+      placeholder={placeholder}
+      style={customeStyle}
+      onBlur={e => {
+        onBlur(e);
+      }}
+      onFocus={onFocus}
+      onKeyDown={e => onKeyDown(e)}
+      onChange={e => setInputValue(e.target.value)}
+    />
   );
 };
 

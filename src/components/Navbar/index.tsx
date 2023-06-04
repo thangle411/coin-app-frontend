@@ -2,7 +2,7 @@ import React from 'react';
 import './Navbar.scss';
 import DarkModeToggle from '../DarkModeToggle';
 
-export default function Navbar() {
+const Navbar = () => {
   return (
     <nav>
       <ul className='navigations'>
@@ -13,4 +13,6 @@ export default function Navbar() {
       <DarkModeToggle />
     </nav>
   );
-}
+};
+
+export default Navbar;

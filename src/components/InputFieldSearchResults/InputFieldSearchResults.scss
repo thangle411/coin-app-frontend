@@ -1,0 +1,17 @@
+@import '../../utils/styles/theme';
+
+.input-field-search-results-container {
+  padding: 10px 10px 0;
+  font-size: 10px;
+  height: 100px;
+  overflow: scroll;
+  margin-top: 5px;
+
+  @include theme() {
+  }
+}
+
+.input-field-result {
+  cursor: pointer;
+  margin-bottom: 5px;
+}

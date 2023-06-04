@@ -1,4 +1,5 @@
 @import '../../utils/styles/theme';
+@import '../../utils/styles/colors';
 
 .home-container {
   @include theme() {
@@ -16,6 +17,11 @@
     text-align: center;
   }
 
+  .new-search-text {
+    font-size: 10px;
+    color: $mustard;
+  }
+
   .separator {
     height: 1px;
     width: 100%;
@@ -29,8 +35,18 @@
 .home-left-side {
   flex: 1;
   padding: 0 20px;
+  height: 100%;
+
+  .result-list-text {
+    margin-bottom: 6px;
+    color: $mustard;
+  }
+}
+
+.home-tweets-container {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
 }
 
 .home-right-side {

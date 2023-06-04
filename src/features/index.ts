@@ -1,4 +1,5 @@
 import TrendingCoins from './TrendingCoins';
 import GasPrices from './GasPrices';
+import TweetsSentiment from './TweetsSentiment';
 
-export { GasPrices, TrendingCoins };
+export { GasPrices, TrendingCoins, TweetsSentiment };
