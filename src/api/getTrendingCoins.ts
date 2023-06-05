@@ -24,18 +24,18 @@ const getTrendingCoins = async (): Promise<TrendingCoins | []> => {
     const isServerAlive = await CoinGeckoAPI.isServerAlive();
 
     if (!isServerAlive) {
-      throw new Error('Coingecko Server is not alive');
+      throw new Error('getTrendingCoins() Coingecko Server is not alive');
     }
 
     const response = await fetch(`${process.env.REACT_APP_COINGECKO_API_URL}/search/trending`);
 
     if (!response.ok) {
-      throw new Error('Network response was not ok');
+      throw new Error('getTrendingCoins() Network response was not ok');
     }
 
     const data = await response.json();
     if (!data.coins?.length) {
-      throw new Error('Coins array might not exist');
+      throw new Error('getTrendingCoins() Coins array might not exist');
     }
 
     return data.coins;

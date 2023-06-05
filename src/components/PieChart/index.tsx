@@ -32,21 +32,7 @@ const PieChart: FC<PieChartProps> = ({ labels, label, dataset, backgroundColor }
     ],
   };
 
-  return (
-    <div className='d-flex align-items-center justify-content-space-around w-100'>
-      <div style={{ height: '300px', minWidth: '300px' }}>{showChart && <Doughnut data={chartData} />}</div>
-      <div>
-        {labels.map((name, index) => (
-          <div className='d-flex align-items-center' style={{ fontSize: '10px' }}>
-            <div
-              style={{ width: '10px', height: '10px', background: backgroundColor[index], marginRight: '10px' }}
-            ></div>
-            {name}
-          </div>
-        ))}
-      </div>
-    </div>
-  );
+  return <div style={{ height: '300px' }}>{showChart && <Doughnut data={chartData} />}</div>;
 };
 
 export default PieChart;

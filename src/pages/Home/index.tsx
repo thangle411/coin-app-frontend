@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { InputBox, InputFieldSearchResults, LoadingSpinner } from '../../components';
 import './Home.scss';
-import { GasPrices, TrendingCoins, TweetsSentiment } from '../../features';
+import { GasPrices, HistoricalMarketData, TrendingCoins, TweetsSentiment } from '../../features';
 import CoinGeckoAPI from '../../services/coingecko';
 import { CoinGeckoType } from '../../types/coingecko';
 
@@ -76,11 +76,29 @@ function Home() {
       );
     }
     return (
-      <div className='home-tweets-container'>
-        <div onClick={resetStates} className='cursor-pointer new-search-text'>
-          Search for another coin
+      <div className='w-100'>
+        <div className='coin-info d-flex align-items-center justify-content-space-between'>
+          <div className='d-flex'>
+            <div>
+              <img src={selectedResult.large} alt='' />
+            </div>
+            <span>
+              {selectedResult.symbol} - {selectedResult.name}
+            </span>
+          </div>
+          <span onClick={resetStates} className='cursor-pointer new-search-text'>
+            Search for another coin
+          </span>
         </div>
-        <TweetsSentiment searchString={searchString} />
+        <div className='w-100 d-flex'>
+          <div className='d-flex align-items-center flex-one'>
+            <TweetsSentiment searchString={searchString} />
+          </div>
+          <div className='separator-vertical' style={{ height: '250px' }}></div>
+          <div className='flex-one' style={{ padding: '0 20px' }}>
+            <HistoricalMarketData id={selectedResult.id} interval={'hourly'} days={7} />
+          </div>
+        </div>
       </div>
     );
   };
@@ -93,7 +111,7 @@ function Home() {
           <div className='title'>Gas Tracker</div>
           {/* <GasPrices /> */}
         </div>
-        <div className='separator'></div>
+        <div className='separator-horizontal'></div>
         <div className='home-trending-coins-container'>
           <div className='title'>Trending coins</div>
           <TrendingCoins />

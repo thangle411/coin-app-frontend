@@ -3,7 +3,7 @@ import { useTweetsQuery } from '../../api';
 import { LoadingSpinner, PieChart } from '../../components';
 import TweetsAPI from '../../services/tweets';
 import Colors from '../../utils/constants/colors';
-
+import './TweetsSentiment.scss';
 interface TweetsAnalysisProps {
   searchString: string;
 }
@@ -24,16 +24,27 @@ const TweetsAnalysis: FC<TweetsAnalysisProps> = ({ searchString }) => {
   }
 
   const tweetsAnalysis = TweetsAPI.groupTweetsBySentiment(tweets.data);
-  console.log(tweetsAnalysis);
+  const labels = ['Neutral', 'Positive', 'Negative'];
+  const backgroundColor = [Colors.CYAN, Colors.PURPLE, Colors.RED_ORANGE];
 
   return (
-    <div className='w-100'>
+    <div className='tweets-sentiment-container d-flex justify-content-center w-100'>
       <PieChart
-        labels={['Neutral', 'Positive', 'Negative']}
+        labels={labels}
         label='test'
         dataset={[tweetsAnalysis.neutral, tweetsAnalysis.positive, tweetsAnalysis.negative]}
-        backgroundColor={[Colors.CYAN, Colors.PURPLE, Colors.RED_ORANGE]}
+        backgroundColor={backgroundColor}
       />
+      <div className='labels'>
+        {labels.map((name, index) => (
+          <div key={index} className='d-flex align-items-center' style={{ fontSize: '10px' }}>
+            <div
+              style={{ width: '10px', height: '10px', background: backgroundColor[index], marginRight: '10px' }}
+            ></div>
+            {name}
+          </div>
+        ))}
+      </div>
     </div>
   );
 };
