@@ -78,7 +78,7 @@ function Home() {
     return (
       <div className='w-100'>
         <div className='coin-info d-flex align-items-center justify-content-space-between'>
-          <div className='d-flex'>
+          <div className='d-flex info-bar'>
             <div>
               <img src={selectedResult.large} alt='' />
             </div>
@@ -91,13 +91,8 @@ function Home() {
           </span>
         </div>
         <div className='w-100 d-flex'>
-          <div className='d-flex align-items-center flex-one'>
-            <TweetsSentiment searchString={searchString} />
-          </div>
-          <div className='separator-vertical' style={{ height: '250px' }}></div>
-          <div className='flex-one' style={{ padding: '0 20px' }}>
-            <HistoricalMarketData id={selectedResult.id} interval={'hourly'} days={7} />
-          </div>
+          <TweetsSentiment searchString={searchString} />
+          <HistoricalMarketData id={selectedResult.id} interval={'hourly'} days={7} />
         </div>
       </div>
     );

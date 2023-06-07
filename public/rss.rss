@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:media="http://search.yahoo.com/mrss/"
+	>
+	<channel>
+		<title>Cointelegraph.com News</title>
+
+		<atom:link href="https://cointelegraph.com/rss" rel="self" type="application/rss+xml" />
+
+		<link>https://cointelegraph.com</link>
+		<description>Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.</description>
+		<generator>cointelegraph.com</generator>
+		<lastBuildDate>Wed, 07 Jun 2023 00:36:01 +0100</lastBuildDate>
+		<language>en</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+
+		<image>
+			<title>Cointelegraph.com News</title>
+			<link>https://cointelegraph.com</link>
+			<url>https://cointelegraph.com/assets/img/CT_Logo_YG_tag.png</url>
+			<description>Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.</description>
+		</image>
+
+		                    <item>
+            <title><![CDATA[Binance.​US says user funds 'remain safe' amid SEC attempt to freeze assets]]></title>
+            <link>https://cointelegraph.com/news/binance-us-user-funds-safe-amid-sec-injunction-freeze-assets</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/71187f1a-a6c5-4dfb-bc08-be5dc688d5d1.jpeg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/71187f1a-a6c5-4dfb-bc08-be5dc688d5d1.jpeg" length="840" type="image/jpg"/>
+            <pubDate>Wed, 07 Jun 2023 00:05:17 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By   Felix Ng  ]]></dc:creator>
+                                                <category><![CDATA[binance US]]></category>
+                                                                <category><![CDATA[binance]]></category>
+                                                                <category><![CDATA[sec]]></category>
+                                                                <category><![CDATA[court]]></category>
+                                                                <category><![CDATA[lawsuit]]></category>
+                                                                <category><![CDATA[suit]]></category>
+                                                                    <guid isPermaLink="false">https://cointelegraph.com/news/binance-us-user-funds-safe-amid-sec-injunction-freeze-assets</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/71187f1a-a6c5-4dfb-bc08-be5dc688d5d1.jpeg"></p><p>The U.S.-based exchange said it's "fully operational" and called the SEC's motion "unwarranted." </p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Optimism successfully completes ‘Bedrock’ hard fork, reducing deposit times, layer-1 fees]]></title>
+            <link>https://cointelegraph.com/news/optimism-successfully-completes-bedrock-hard-fork-reducing-deposit-times-layer-1-fees</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/7a78ecc8-f1a7-4b1e-b52a-6dded5504b2d.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/7a78ecc8-f1a7-4b1e-b52a-6dded5504b2d.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 22:30:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By   Tom Blackstone  ]]></dc:creator>
+                                                <category><![CDATA[optimism]]></category>
+                                                                <category><![CDATA[bedrock]]></category>
+                                                                <category><![CDATA[layer 2]]></category>
+                                                                <category><![CDATA[base]]></category>
+                                                                <category><![CDATA[coinbase]]></category>
+                                                                <category><![CDATA[superchain]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/optimism-successfully-completes-bedrock-hard-fork-reducing-deposit-times-layer-1-fees</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/7a78ecc8-f1a7-4b1e-b52a-6dded5504b2d.jpg"></p><p>The upgrade is part of a series of reforms meant to increase modularity in the OP Stack, allowing developers to spin up their own networks using the software.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Coinbase reminds world it tried to ‘embrace regulation’ as SEC sues for violations]]></title>
+            <link>https://cointelegraph.com/news/coinbase-reminds-world-it-tried-to-embrace-regulation-as-sec-sues-for-violations</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/e4f8fd7d-d583-407c-8d71-5ae1ddd5a3a1.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/e4f8fd7d-d583-407c-8d71-5ae1ddd5a3a1.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 22:08:05 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By    Derek Andersen   ]]></dc:creator>
+                                                <category><![CDATA[Coinbase]]></category>
+                                                                <category><![CDATA[SEC]]></category>
+                                                                <category><![CDATA[Staking]]></category>
+                                                                <category><![CDATA[Security]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/coinbase-reminds-world-it-tried-to-embrace-regulation-as-sec-sues-for-violations</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/e4f8fd7d-d583-407c-8d71-5ae1ddd5a3a1.jpg"></p><p>Coinbase met with the SEC 30 times in 2022 seeking regulatory guidance and now it will “vigorously defend” itself, it says.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[SEC files motion for restraining order against Binance]]></title>
+            <link>https://cointelegraph.com/news/sec-files-motion-for-restraining-order-against-binance</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/26d7b404-b96c-458d-b9e3-ce1060a8367f.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/26d7b404-b96c-458d-b9e3-ce1060a8367f.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 21:49:22 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By    Derek Andersen   ]]></dc:creator>
+                                                <category><![CDATA[Binance]]></category>
+                                                                <category><![CDATA[SEC]]></category>
+                                                                <category><![CDATA[Cryptocurrency Exchange]]></category>
+                                                                <category><![CDATA[Changpeng Zhao]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/sec-files-motion-for-restraining-order-against-binance</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/26d7b404-b96c-458d-b9e3-ce1060a8367f.jpg"></p><p>The SEC has accused Binance of mishandling funds and operating an unregistered securities exchange.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Coinbase CEO responds to SEC suit, says team is ‘confident’ in facts and law]]></title>
+            <link>https://cointelegraph.com/news/coinbase-ceo-responds-to-sec-suit-says-team-is-confidant-in-facts-and-law</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/1c0ed857-1347-43ae-9663-76d3c16b753f.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/1c0ed857-1347-43ae-9663-76d3c16b753f.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 21:08:59 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By   Tom Blackstone  ]]></dc:creator>
+                                                <category><![CDATA[sec]]></category>
+                                                                <category><![CDATA[coinbase]]></category>
+                                                                <category><![CDATA[securities]]></category>
+                                                                <category><![CDATA[lawsuit]]></category>
+                                                                <category><![CDATA[filing]]></category>
+                                                                <category><![CDATA[brian armstrong]]></category>
+                                                                <category><![CDATA[ceo]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/coinbase-ceo-responds-to-sec-suit-says-team-is-confidant-in-facts-and-law</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/1c0ed857-1347-43ae-9663-76d3c16b753f.jpg"></p><p>In a social media post, Brian Armstrong said he thinks the SEC’s rules are unclear and that the courts need to make rulings to clarify them.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Crypto traders avoid risk and shelter in stablecoins as the market reaches a turning point]]></title>
+            <link>https://cointelegraph.com/news/crypto-traders-avoid-risk-and-shelter-in-stablecoins-as-the-market-reaches-a-turning-point</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/bff56e37-009d-4834-a211-427b42521c5c.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/bff56e37-009d-4834-a211-427b42521c5c.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 20:45:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Nivesh Rustgi]]></dc:creator>
+                                                <category><![CDATA[Bitcoin ethereum dominance]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/crypto-traders-avoid-risk-and-shelter-in-stablecoins-as-the-market-reaches-a-turning-point</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/bff56e37-009d-4834-a211-427b42521c5c.jpg"></p><p>On-chain data from Glassnode shows market participants averting risk and seeking shelter in stablecoins and BTC as the crypto market nears a decisive move.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Google Cloud launches free courses to help users build their own GPT-style AI]]></title>
+            <link>https://cointelegraph.com/news/google-cloud-launches-free-courses-to-help-users-build-their-own-gpt-style-ai</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/137f48a7-f98b-4888-aa17-02520036d5de.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/137f48a7-f98b-4888-aa17-02520036d5de.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 20:40:37 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By     Tristan Greene    ]]></dc:creator>
+                                                <category><![CDATA[Google]]></category>
+                                                                <category><![CDATA[AI]]></category>
+                                                                <category><![CDATA[ChatGPT]]></category>
+                                                                <category><![CDATA[Education]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/google-cloud-launches-free-courses-to-help-users-build-their-own-gpt-style-ai</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/137f48a7-f98b-4888-aa17-02520036d5de.jpg"></p><p>The new corpus includes nine courses and a set of labs that students can complete to earn a Google Cloud skills badge.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Why is Bitcoin price down today? ]]></title>
+            <link>https://cointelegraph.com/news/why-is-bitcoin-price-down-today</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2022-11/d3605b6b-0eff-46f6-a46f-b15ec3b3ecbe.jpeg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2022-11/d3605b6b-0eff-46f6-a46f-b15ec3b3ecbe.jpeg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 19:32:51 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By  Kyle White ]]></dc:creator>
+                                                <category><![CDATA[why is bitcoin price down]]></category>
+                                                                <category><![CDATA[why is the crypto market down]]></category>
+                                                                <category><![CDATA[what is Bitcoin price today]]></category>
+                                                                <category><![CDATA[Bitcoin price]]></category>
+                                                                <category><![CDATA[are cryptocurrencies Ponzi schemes]]></category>
+                                                                <category><![CDATA[is crypto in a bear market]]></category>
+                                                                <category><![CDATA[when will bitcoin price go up]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/why-is-bitcoin-price-down-today</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2022-11/d3605b6b-0eff-46f6-a46f-b15ec3b3ecbe.jpeg"></p><p>Bitcoin price is down today after lawsuits against Binance and Coinbase led to $106 million in BTC long liquidations.   </p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Small business lending protocol Defactor tokenizes $100M in bonds ]]></title>
+            <link>https://cointelegraph.com/news/small-business-lending-protocol-defactor-tokenizes-100m-in-bonds</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/9be73f05-87ce-4b18-933f-395b147559f6.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/9be73f05-87ce-4b18-933f-395b147559f6.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 19:30:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By    Zhiyuan Sun   ]]></dc:creator>
+                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                                                <category><![CDATA[Tokeny]]></category>
+                                                                <category><![CDATA[DeFi]]></category>
+                                                                <category><![CDATA[Defactor Labs]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/small-business-lending-protocol-defactor-tokenizes-100m-in-bonds</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/9be73f05-87ce-4b18-933f-395b147559f6.jpg"></p><p>The bonds are tokenized on Polygon using the ERC-3643 token standard.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[House Ag Committee looks at digital assets regulatory bill, Dems ask how to pay for it]]></title>
+            <link>https://cointelegraph.com/news/house-ag-committee-looks-at-digital-assets-regulatory-bill-dems-ask-how-to-pay-for-it</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/a6cd7171-f647-4cd2-adf4-8a85f6b0eb8d.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/a6cd7171-f647-4cd2-adf4-8a85f6b0eb8d.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 19:00:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By    Derek Andersen   ]]></dc:creator>
+                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                                                <category><![CDATA[Bitcoin Regulation]]></category>
+                                                                <category><![CDATA[CFTC]]></category>
+                                                                <category><![CDATA[SEC]]></category>
+                                                                <category><![CDATA[Commodities Investment]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/house-ag-committee-looks-at-digital-assets-regulatory-bill-dems-ask-how-to-pay-for-it</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/a6cd7171-f647-4cd2-adf4-8a85f6b0eb8d.jpg"></p><p>The full Agriculture Committee heard testimony from CFTC Chair Rostin Behnam, a full roster of former regulators and Coinbase’s chief legal officer. </p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Sequoia Capital announces three-way split to separate China business]]></title>
+            <link>https://cointelegraph.com/news/sequoia-capital-announces-three-way-split-to-separate-china-business</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/0756a794-e787-405c-a060-94effd5f1fa3.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/0756a794-e787-405c-a060-94effd5f1fa3.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 18:00:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By     Tristan Greene    ]]></dc:creator>
+                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                                                <category><![CDATA[United States]]></category>
+                                                                <category><![CDATA[European Union]]></category>
+                                                                <category><![CDATA[China]]></category>
+                                                                <category><![CDATA[Fintech]]></category>
+                                                                <category><![CDATA[Venture Capital]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/sequoia-capital-announces-three-way-split-to-separate-china-business</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/0756a794-e787-405c-a060-94effd5f1fa3.jpg"></p><p>One of the world’s largest venture capital firms, Sequoia Capital will split into U.S./Europe, India/SEA, and Chinese branches.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Bitcoin price bounces past $26K as Coinbase news fails to shake bulls]]></title>
+            <link>https://cointelegraph.com/news/bitcoin-price-bounces-past-26k-coinbase-news-fails-shake-bulls</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/3aacbf93-d5a4-4ffb-8df9-7349ba5c26ce.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/3aacbf93-d5a4-4ffb-8df9-7349ba5c26ce.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 17:55:01 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By   William Suberg  ]]></dc:creator>
+                                                <category><![CDATA[Bitcoin]]></category>
+                                                                <category><![CDATA[BTC price]]></category>
+                                                                <category><![CDATA[Coinbase]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/bitcoin-price-bounces-past-26k-coinbase-news-fails-shake-bulls</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/3aacbf93-d5a4-4ffb-8df9-7349ba5c26ce.jpg"></p><p>Bitcoin’s price stages a sudden comeback from its lowest levels since mid-March.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Why is Ethereum (ETH) price up today?]]></title>
+            <link>https://cointelegraph.com/news/why-is-ethereum-eth-price-up-today</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-01/62a9e911-43a2-4cc4-92a1-f4819d8f0db5.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-01/62a9e911-43a2-4cc4-92a1-f4819d8f0db5.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 16:55:03 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By   Yashu Gola  ]]></dc:creator>
+                                                <category><![CDATA[Ethereum]]></category>
+                                                                <category><![CDATA[ETH Price]]></category>
+                                                                <category><![CDATA[why is ethereum price up today]]></category>
+                                                                <category><![CDATA[why is ether up today]]></category>
+                                                                <category><![CDATA[Inflation]]></category>
+                                                                <category><![CDATA[Binance]]></category>
+                                                                <category><![CDATA[SEC]]></category>
+                                                                <category><![CDATA[Options]]></category>
+                                                                <category><![CDATA[Crypto Market]]></category>
+                                                                <category><![CDATA[why is eth price up]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/why-is-ethereum-eth-price-up-today</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-01/62a9e911-43a2-4cc4-92a1-f4819d8f0db5.jpg"></p><p>Ethereum price is up today, after its absence from the SEC's lawsuit against Coinbase and Binance catch traders' attention.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Coinbase stock plunges 20% on SEC lawsuit]]></title>
+            <link>https://cointelegraph.com/news/coinbase-stock-plunges-20-on-sec-lawsuit</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/86fe1aed-a9af-4b23-89b0-18ac78b81483.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/86fe1aed-a9af-4b23-89b0-18ac78b81483.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 16:20:29 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By    Zhiyuan Sun   ]]></dc:creator>
+                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                                                <category><![CDATA[Coinbase]]></category>
+                                                                <category><![CDATA[SEC]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/coinbase-stock-plunges-20-on-sec-lawsuit</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/86fe1aed-a9af-4b23-89b0-18ac78b81483.jpg"></p><p>The cryptocurrency exchange faces scrutiny from state regulators simultaneous to the SEC litigation.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[10 industry insiders’ tips for devs who are new to blockchain coding]]></title>
+            <link>https://cointelegraph.com/innovation-circle/10-industry-insiders-tips-for-devs-who-are-new-to-blockchain-coding</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/76e9649a-b40d-4e28-a6a8-d8611733ae69.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/76e9649a-b40d-4e28-a6a8-d8611733ae69.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 16:00:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Cointelegraph Innovation Circle]]></dc:creator>
+                                                    <guid isPermaLink="false">https://cointelegraph.com/innovation-circle/10-industry-insiders-tips-for-devs-who-are-new-to-blockchain-coding</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/76e9649a-b40d-4e28-a6a8-d8611733ae69.jpg"></p><p>If they start in the right place and leverage the many available resources, devs new to blockchain can become thriving community members.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Breaking: Coinbase targeted by state security regulators concurrent to SEC lawsuit]]></title>
+            <link>https://cointelegraph.com/news/coinbase-targeted-by-state-security-regulators-concurrent-to-sec-lawsuit</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/0330c8b4-c5ee-40eb-9aa6-c078c63df659.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/0330c8b4-c5ee-40eb-9aa6-c078c63df659.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 14:55:54 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By    Zhiyuan Sun   ]]></dc:creator>
+                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                                                <category><![CDATA[SEC]]></category>
+                                                                <category><![CDATA[Coinbase]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/coinbase-targeted-by-state-security-regulators-concurrent-to-sec-lawsuit</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/0330c8b4-c5ee-40eb-9aa6-c078c63df659.jpg"></p><p>The SEC is suing the cryptocurrency exchange for alleged unregistered securities offerings. </p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Tornado Cash 2.0: The race to build safe and legal coin mixers]]></title>
+            <link>https://cointelegraph.com/magazine/tornado-cash-2-0-the-race-to-build-safe-and-legal-coin-mixers/</link>
+            <media:content url="https://cointelegraph.com/magazine/wp-content/uploads/2023/06/magazine-Alternatives-to-Tornado-cash-scaled.jpg" medium="image"/>
+            <enclosure url="https://cointelegraph.com/magazine/wp-content/uploads/2023/06/magazine-Alternatives-to-Tornado-cash-scaled.jpg" length="2560" type="image/jpeg"/>
+            <pubDate>Tue, 06 Jun 2023 14:30:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Max Parasol]]></dc:creator>
+                                                <category><![CDATA[Features]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/magazine/tornado-cash-2-0-the-race-to-build-safe-and-legal-coin-mixers/</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://cointelegraph.com/magazine/wp-content/uploads/2023/06/magazine-Alternatives-to-Tornado-cash-scaled.jpg"></p><p>Projects are racing to create legal coin mixers that preserve privacy while revealing just enough data to stay on the right side of the law.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[The Ethereum Shanghai upgrade: Everything you need to know]]></title>
+            <link>https://cointelegraph.com/innovation-circle/the-ethereum-shanghai-upgrade-everything-you-need-to-know</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/70656ac6-e787-4ec7-820c-2c86cd42e07c.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/70656ac6-e787-4ec7-820c-2c86cd42e07c.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 14:00:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Tammy Paola]]></dc:creator>
+                                                    <guid isPermaLink="false">https://cointelegraph.com/innovation-circle/the-ethereum-shanghai-upgrade-everything-you-need-to-know</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/70656ac6-e787-4ec7-820c-2c86cd42e07c.jpg"></p><p>The Shanghai upgrade allows validators to withdraw the staked ether (ETH) that has been locked in the network.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Grinding out a living: Can blockchain games really offer a sustainable income?]]></title>
+            <link>https://cointelegraph.com/news/grinding-out-a-living-can-blockchain-games-really-offer-a-sustainable-income</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/a74dd48a-6eeb-4ecd-9dab-31d6f10c1d90.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/a74dd48a-6eeb-4ecd-9dab-31d6f10c1d90.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 13:52:18 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By   Stephen Katte  ]]></dc:creator>
+                                                <category><![CDATA[Games]]></category>
+                                                                <category><![CDATA[Blockchain Game]]></category>
+                                                                <category><![CDATA[Gaming]]></category>
+                                                                <category><![CDATA[Mobile games]]></category>
+                                                                <category><![CDATA[Tokens]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/grinding-out-a-living-can-blockchain-games-really-offer-a-sustainable-income</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/a74dd48a-6eeb-4ecd-9dab-31d6f10c1d90.jpg"></p><p>Blockchain gaming executives believe the law has not yet caught up with the concept of earning a living through gaming.  </p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[SEC sues Coinbase for breaking US securities rules]]></title>
+            <link>https://cointelegraph.com/news/sec-sues-coinbase-crypto-exchange</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/d82adc90-cc68-4dee-9df6-3498d7ee00eb.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/d82adc90-cc68-4dee-9df6-3498d7ee00eb.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 13:23:07 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By  Prashant Jha ]]></dc:creator>
+                                                <category><![CDATA[SEC]]></category>
+                                                                <category><![CDATA[Security]]></category>
+                                                                <category><![CDATA[Coinbase]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/sec-sues-coinbase-crypto-exchange</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/d82adc90-cc68-4dee-9df6-3498d7ee00eb.jpg"></p><p>The SEC lawsuit alleges that Coinbase operates as an unregistered securities exchange, broker and clearing agency.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Dev shares how ENS plays a role in decentralized social media]]></title>
+            <link>https://cointelegraph.com/news/ens-and-decentralized-social-media-interview</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/18ed1071-ad74-4200-96a4-1eee4e6ea8d0.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/18ed1071-ad74-4200-96a4-1eee4e6ea8d0.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 12:20:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By   Ezra Reguerra  ]]></dc:creator>
+                                                <category><![CDATA[ENS developer]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/ens-and-decentralized-social-media-interview</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/18ed1071-ad74-4200-96a4-1eee4e6ea8d0.jpg"></p><p>Makoto Inoue highlighted that Web3 socials are not limited to online platforms but can also be applied offline, keeping records of people’s meetings on the blockchain.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Binance vs. SEC: Crypto industry debates ‘Tai Chi’ vs. ‘Operation Chokepoint 2.0’]]></title>
+            <link>https://cointelegraph.com/news/binance-v-sec-crypto-industry-debates-tai-chi-vs-operation-chokepoint-2</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/9a7d5a08-e505-460f-9bb5-a0d87912bb4a.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/9a7d5a08-e505-460f-9bb5-a0d87912bb4a.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 12:01:14 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By  Prashant Jha ]]></dc:creator>
+                                                <category><![CDATA[Bitcoin Regulation]]></category>
+                                                                <category><![CDATA[Cryptocurrency Exchange]]></category>
+                                                                <category><![CDATA[Binance]]></category>
+                                                                <category><![CDATA[Binance Coin]]></category>
+                                                                <category><![CDATA[Binance USD]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/binance-v-sec-crypto-industry-debates-tai-chi-vs-operation-chokepoint-2</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/9a7d5a08-e505-460f-9bb5-a0d87912bb4a.jpg"></p><p>The SEC lawsuit comes just months after the CFTC lawsuit against Binance, mounting its regulatory woes in the United States.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[AI could threaten humanity in 2 years, warns UK AI task force adviser]]></title>
+            <link>https://cointelegraph.com/news/ai-could-threaten-humanity-in-two-years-says-uk-advisor</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/be621ca7-0790-4dc6-b1ab-319a8ce8e4c0.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/be621ca7-0790-4dc6-b1ab-319a8ce8e4c0.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 10:56:48 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By    Savannah Fortis   ]]></dc:creator>
+                                                <category><![CDATA[AI]]></category>
+                                                                <category><![CDATA[ChatGPT]]></category>
+                                                                <category><![CDATA[United Kingdom]]></category>
+                                                                <category><![CDATA[UK Government]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/ai-could-threaten-humanity-in-two-years-says-uk-advisor</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/be621ca7-0790-4dc6-b1ab-319a8ce8e4c0.jpg"></p><p>The U.K. prime minister’s AI task force adviser said large AI models would need regulation and control in the next two years to curb major existential risks.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Binance net outflows hit $778M on Ethereum since SEC charges: Nansen]]></title>
+            <link>https://cointelegraph.com/news/binance-net-outflows-on-ethereum-blockchain-after-sec-lawsui-nansen</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/bf37dbf1-43d0-4228-9519-3770619b7763.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/bf37dbf1-43d0-4228-9519-3770619b7763.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 10:14:18 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By  Prashant Jha ]]></dc:creator>
+                                                <category><![CDATA[Cryptocurrency Exchange]]></category>
+                                                                <category><![CDATA[Binance]]></category>
+                                                                <category><![CDATA[SEC]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/binance-net-outflows-on-ethereum-blockchain-after-sec-lawsui-nansen</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/bf37dbf1-43d0-4228-9519-3770619b7763.jpg"></p><p>The SEC lawsuit against Binance led to outflows of over $750 million on Ethereum in the past 24 hours, with outflows still exceeding inflows.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[5 YouTube channels for learning graphic design]]></title>
+            <link>https://cointelegraph.com/news/learn-graphic-design</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/797e6d49-11b8-434a-bd43-da00da9dcd4e.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/797e6d49-11b8-434a-bd43-da00da9dcd4e.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 10:13:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Alice Ivey]]></dc:creator>
+                                                <category><![CDATA[Graphic design]]></category>
+                                                                <category><![CDATA[design tutorials]]></category>
+                                                                <category><![CDATA[design principles]]></category>
+                                                                <category><![CDATA[Adobe Creative Suite]]></category>
+                                                                <category><![CDATA[digital art techniques]]></category>
+                                                                <category><![CDATA[visual communication]]></category>
+                                                                <category><![CDATA[design tips]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/learn-graphic-design</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/797e6d49-11b8-434a-bd43-da00da9dcd4e.jpg"></p><p>Discover a wealth of graphic design knowledge and unleash your creativity with these five YouTube channels.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Bitcoin traders bet on $24K BTC price as market digests SEC vs. Binance]]></title>
+            <link>https://cointelegraph.com/news/bitcoin-traders-bet-on-24k-btc-price-as-market-digests-sec-vs-binance</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/5d96b241-1b4d-48dc-8476-7bcfaf7bc249.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/5d96b241-1b4d-48dc-8476-7bcfaf7bc249.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 10:00:08 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By   William Suberg  ]]></dc:creator>
+                                                <category><![CDATA[Bitcoin]]></category>
+                                                                <category><![CDATA[BTC price]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/bitcoin-traders-bet-on-24k-btc-price-as-market-digests-sec-vs-binance</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/5d96b241-1b4d-48dc-8476-7bcfaf7bc249.jpg"></p><p>Bitcoin is looking ripe for a trip to its lowest levels since March, say market participants, with BTC price action staying below $26,000.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Kraken fixes gateway issues after brief delay in withdrawals]]></title>
+            <link>https://cointelegraph.com/news/kraken-deposit-withdrawal-delays-crypto-gateway-issues</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/6b9b0c50-039e-4155-80a2-06c436b268a0.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/6b9b0c50-039e-4155-80a2-06c436b268a0.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 09:14:47 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By    Savannah Fortis   ]]></dc:creator>
+                                                <category><![CDATA[Cryptocurrency Exchange]]></category>
+                                                                <category><![CDATA[Kraken]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/kraken-deposit-withdrawal-delays-crypto-gateway-issues</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/6b9b0c50-039e-4155-80a2-06c436b268a0.jpg"></p><p>Major crypto exchange Kraken investigated an issue with crypto funding gateways, including BTC, ETH, and ERC-20, with users experiencing delays in deposits and withdrawals.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[AI should be regulated like medicine and nuclear power: UK Labour Party MP]]></title>
+            <link>https://cointelegraph.com/news/ai-regulated-medicine-nuclear-power-uk-minister</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/9afd5806-edd2-4b5c-bbae-3601c81f4afa.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/9afd5806-edd2-4b5c-bbae-3601c81f4afa.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 07:30:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By   Jesse Coghlan  ]]></dc:creator>
+                                                <category><![CDATA[ai]]></category>
+                                                                <category><![CDATA[artificial intelligence]]></category>
+                                                                <category><![CDATA[uk]]></category>
+                                                                <category><![CDATA[Britain]]></category>
+                                                                <category><![CDATA[labour party]]></category>
+                                                                <category><![CDATA[ai regulations]]></category>
+                                                                <category><![CDATA[ai laws]]></category>
+                                                                <category><![CDATA[threats to humanity]]></category>
+                                                                <category><![CDATA[lucy powell]]></category>
+                                                                <category><![CDATA[politics]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/ai-regulated-medicine-nuclear-power-uk-minister</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/9afd5806-edd2-4b5c-bbae-3601c81f4afa.jpg"></p><p>A front-bench member of the United Kingdom’s opposition Labour Party says artificial intelligence should be licensed and regulated similarly to the pharmaceutical and nuclear industries.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[US lawmakers blame crypto firms for ‘tax gap’ in letter to Treasury]]></title>
+            <link>https://cointelegraph.com/news/congressmen-raise-crypto-tax-compliance-concerns-treasury-irs</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/8124efcd-9930-4d7b-9c5c-306252bf0eb2.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/8124efcd-9930-4d7b-9c5c-306252bf0eb2.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 07:15:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By    Arijit Sarkar   ]]></dc:creator>
+                                                <category><![CDATA[Congress]]></category>
+                                                                <category><![CDATA[United States]]></category>
+                                                                <category><![CDATA[IRS]]></category>
+                                                                <category><![CDATA[Janet Yellen]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/congressmen-raise-crypto-tax-compliance-concerns-treasury-irs</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/8124efcd-9930-4d7b-9c5c-306252bf0eb2.jpg"></p><p>In a letter addressed to Treasury Secretary Janet Yellen and IRS Commissioner Daniel Werfel, two members of Congress raised concerns about the tax compliance practices in crypto.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Atomic Wallet hacker sends crypto to mixer used by Lazarus Group: Elliptic]]></title>
+            <link>https://cointelegraph.com/news/atomic-wallet-hacker-sends-crypto-mixer-elliptic</link>
+            <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/cfcd0277-868f-4482-9547-bd9f10b86c38.jpg" medium="image"/>
+            <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/cfcd0277-868f-4482-9547-bd9f10b86c38.jpg" length="840" type="image/jpg"/>
+            <pubDate>Tue, 06 Jun 2023 06:55:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By   Martin Young  ]]></dc:creator>
+                                                <category><![CDATA[Atomic Wallet]]></category>
+                                                                <category><![CDATA[hack]]></category>
+                                                                <category><![CDATA[Bitcoin]]></category>
+                                                                <category><![CDATA[mixer]]></category>
+                                                                <category><![CDATA[Elliptic]]></category>
+                                                                <category><![CDATA[Lazarus Group]]></category>
+                                                                <category><![CDATA[North Korea]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/atomic-wallet-hacker-sends-crypto-mixer-elliptic</guid>
+            <description>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/cfcd0277-868f-4482-9547-bd9f10b86c38.jpg"></p><p>Stolen crypto from Atomic Wallet users are already on the move to mixers, according to Elliptic. </p>]]>
+            </description>
+        </item>
+    		
+	</channel>
+</rss>

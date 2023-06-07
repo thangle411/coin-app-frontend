@@ -1,6 +1,6 @@
 import React, { FC } from 'react';
 import { useHistoricalMarketDataQuery } from '../../api';
-import { LineChart, LoadingSpinner } from '../../components';
+import { BarChart, FeatureContainer, LineChart, LoadingSpinner } from '../../components';
 import Colors from '../../utils/constants/colors';
 
 interface HistoricalMarketDataProps {
@@ -27,18 +27,28 @@ const HistoricalMarketData: FC<HistoricalMarketDataProps> = ({ id, days, interva
 
   const unixTimestamps: number[] = [];
   const prices: number[] = [];
-  marketData.data.prices.forEach(price => {
+  const volumes: number[] = [];
+  marketData.data.prices.forEach((price, index) => {
     if (!price?.[0] || !price?.[1]) return;
     unixTimestamps.push(price[0]);
     prices.push(price[1]);
+    volumes.push(marketData.data?.total_volumes?.[index]?.[1] || 0);
   });
 
+  console.log(volumes);
   return (
-    <div className='h-100 d-flex-col justify-content-center'>
-      <div style={{ fontSize: '10px', color: Colors.GREY, textAlign: 'end' }}>
-        Current price: {prices.at(-1)?.toFixed(2)}
-      </div>
-      <LineChart dates={unixTimestamps} prices={prices} />
+    <div className='w-100'>
+      <FeatureContainer title='Price'>
+        <div className='h-100 d-flex-col justify-content-center'>
+          <div style={{ fontSize: '10px', color: Colors.GREY, textAlign: 'end' }}>
+            Current price: {prices.at(-1)?.toFixed(2)}
+          </div>
+          <LineChart dates={unixTimestamps} prices={prices} />
+        </div>
+      </FeatureContainer>
+      <FeatureContainer title='Volumne'>
+        <BarChart datasets={volumes} />
+      </FeatureContainer>
     </div>
   );
 };

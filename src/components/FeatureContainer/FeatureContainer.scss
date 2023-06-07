@@ -1,0 +1,17 @@
+@import '../../utils/styles/theme';
+
+.feature-container {
+  padding: 20px;
+  margin: 10px;
+  // width: 100%;
+  @include theme() {
+    background: theme-get('feature-container-background');
+  }
+}
+
+.feature-container-children {
+}
+
+.feature-container-title {
+  margin-bottom: 20px;
+}

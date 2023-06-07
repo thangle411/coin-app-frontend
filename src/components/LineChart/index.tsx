@@ -13,7 +13,10 @@ interface LineChartProps {
 
 const LineChart: FC<LineChartProps> = ({ dates, prices }) => {
   const data: ChartData<'line'> = {
-    labels: dates.map(date => convertUnixTimestamp(date / 1000).toLocaleDateString('en-US')),
+    labels: dates.map((date, index) => {
+      // convertUnixTimestamp(date / 1000).toLocaleDateString('en-US')
+      return '';
+    }),
     datasets: [
       {
         data: prices,
@@ -34,6 +37,12 @@ const LineChart: FC<LineChartProps> = ({ dates, prices }) => {
           x: {
             grid: {
               color: 'transparent',
+            },
+            ticks: {
+              autoSkip: true,
+              maxTicksLimit: 4,
+              // maxRotation: 45,
+              // minRotation: 45,
             },
           },
           y: {

@@ -24,6 +24,10 @@
       width: 20px;
       height: 20px;
     }
+
+    .info-bar {
+      padding: 0 10px;
+    }
   }
 
   .new-search-text {
@@ -50,19 +54,13 @@
       background-color: theme-get('border');
     }
   }
-  .separator-vertical {
-    width: 1px;
-    margin: auto 20px;
-    @include theme() {
-      background-color: theme-get('border');
-    }
-  }
 }
 
 .home-left-side {
   flex: 1;
-  padding: 0 20px;
+  padding: 20px;
   height: 100%;
+  overflow: auto;
 
   .result-list-text {
     margin-bottom: 6px;

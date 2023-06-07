@@ -36,7 +36,7 @@ const getHistoricalMarketData = async ({
     }
     return data;
   } catch (error) {
-    console.error('Cant get tweets');
+    console.error('Cant get historical date');
     throw error;
   }
 };
@@ -46,4 +46,4 @@ export const useHistoricalMarketDataQuery = (
   days: number,
   interval: string = 'hourly',
   currency: string = 'usd',
-) => useQuery({ queryKey: ['tweets', id, days, interval, currency], queryFn: getHistoricalMarketData });
+) => useQuery({ queryKey: ['historicalData', id, days, interval, currency], queryFn: getHistoricalMarketData });
